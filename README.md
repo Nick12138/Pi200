@@ -1,3 +1,11 @@
+# Pi200
+
+Pi200 是基于 [Pi](https://pi.dev) 定制的个人 AI Agent。本仓库保留 Pi 上游代码和提交历史，Pi200 专属功能集中在独立目录中，以便持续同步上游修复和更新。
+
+项目说明见 [Pi200.md](Pi200.md)，功能规划见 [建议Pi200开发功能.md](建议Pi200开发功能.md)。以下内容为 Pi 官方项目说明。
+
+---
+
 <p align="center">
   <a href="https://pi.dev">
     <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="128">

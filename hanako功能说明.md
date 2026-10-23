@@ -2,7 +2,7 @@
 
 > 项目当前产品名为 **HanaAgent**，开源仓库名为 **openhanako**。
 >
-> 本文基于本地源码 `D:\我的项目\openhanako` 整理。审阅版本：`0.421.24`；审阅提交：`e87769a0`。
+> 本文基于本地源码 `<path>\openhanako` 整理。审阅版本：`0.421.24`；审阅提交：`e87769a0`。
 >
 > 上游仓库：[liliMozi/openhanako](https://github.com/liliMozi/openhanako)
 
